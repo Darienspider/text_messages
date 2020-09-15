@@ -1,0 +1,4 @@
+"""This must be a gmail account to work"""
+email:
+  user: <your email>@gmail.com
+  password: <your password>
